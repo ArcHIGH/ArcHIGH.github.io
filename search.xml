@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>【HEC-RAS】05 特点、使用场景及防洪评价案例</title>
+      <link href="/2020/10/14/HECRAS-05/"/>
+      <url>/2020/10/14/HECRAS-05/</url>
+      
+        <content type="html"><![CDATA[<p>本博客为<a href="https://6468.dingdingkaike.com/Course/courseDetail?course_id=70631">研修学院讲座</a>笔记。</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_01.png" alt="image-20201014185859349"></p><h1 id="防洪评价法律依据"><a href="#防洪评价法律依据" class="headerlink" title="防洪评价法律依据"></a>防洪评价法律依据</h1><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/image-20201014191616475.png" alt="image-20201014191616475"></p><h1 id="报告编制方法"><a href="#报告编制方法" class="headerlink" title="报告编制方法"></a>报告编制方法</h1><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_03.png" alt="image-20201014190541813"></p><h1 id="涉及到的软件"><a href="#涉及到的软件" class="headerlink" title="涉及到的软件"></a>涉及到的软件</h1><ul><li><p><code>Eps.exe</code> ：无人机获取地形</p></li><li><p>远盛水工CAD2010、Python：预处理数据</p></li><li><p>HEC-RAS：建模</p></li><li><p>SMS：打网格</p></li><li><p>MIKE：平面二维水流数学模型</p></li></ul><h1 id="HEC-RAS建模教程"><a href="#HEC-RAS建模教程" class="headerlink" title="HEC-RAS建模教程"></a>HEC-RAS建模教程</h1><h2 id="新建项目"><a href="#新建项目" class="headerlink" title="新建项目"></a>新建项目</h2><p>File -&gt; New Project</p><p>路径为英文名</p><h2 id="地形数据"><a href="#地形数据" class="headerlink" title="地形数据"></a>地形数据</h2><p>Edit -&gt; Geometric Data</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_04.png" alt="image-20201014195445057"></p><h3 id="两种输入格式"><a href="#两种输入格式" class="headerlink" title="两种输入格式"></a>两种输入格式</h3><ul><li><p>xyz</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_05.png" alt="image-20201014200025951"></p></li><li><p>xz</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_06.png" alt="image-20201014195955982"></p></li></ul><h3 id="曼宁糙率"><a href="#曼宁糙率" class="headerlink" title="曼宁糙率"></a>曼宁糙率</h3><p>Edit -&gt; Geometric Data -&gt; Tables -&gt; Manning’ n</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_07.png" alt="image-20201014200305136"></p><h3 id="断面间距"><a href="#断面间距" class="headerlink" title="断面间距"></a>断面间距</h3><p>Edit -&gt; Geometric Data -&gt; Tables -&gt; Reach lengths</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_08.png" alt="image-20201014200519087"></p><h3 id="保存地形数据"><a href="#保存地形数据" class="headerlink" title="保存地形数据"></a>保存地形数据</h3><p>Edit -&gt; Geometric Data -&gt; File -&gt; Save</p><h2 id="洪水数据"><a href="#洪水数据" class="headerlink" title="洪水数据"></a>洪水数据</h2><p>Edit -&gt;  Steady Flow Data</p><h3 id="设置流量"><a href="#设置流量" class="headerlink" title="设置流量"></a>设置流量</h3><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_09.png" alt="image-20201014201423299"></p><h3 id="设置下游水位边界"><a href="#设置下游水位边界" class="headerlink" title="设置下游水位边界"></a>设置下游水位边界</h3><p>Edit -&gt;  Steady Flow Data -&gt; Reach Boundary Conditions -&gt; know W.S</p><h3 id="保存边界数据"><a href="#保存边界数据" class="headerlink" title="保存边界数据"></a>保存边界数据</h3><h2 id="运行模型"><a href="#运行模型" class="headerlink" title="运行模型"></a>运行模型</h2><p>Run -&gt; Steady Flow Analysis</p><h2 id="查看结果"><a href="#查看结果" class="headerlink" title="查看结果"></a>查看结果</h2><h1 id="HEC-RAS-桥梁桥涵建模教程"><a href="#HEC-RAS-桥梁桥涵建模教程" class="headerlink" title="HEC-RAS 桥梁桥涵建模教程"></a>HEC-RAS 桥梁桥涵建模教程</h1><h2 id="新建桥梁"><a href="#新建桥梁" class="headerlink" title="新建桥梁"></a>新建桥梁</h2><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/image-20201014203132140.png" alt="image-20201014203132140"></p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_10.png" alt="image-20201014203156033"></p><h2 id="建立面板"><a href="#建立面板" class="headerlink" title="建立面板"></a>建立面板</h2><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_11.png" alt="image-20201014203207513"></p><h2 id="建立桥墩"><a href="#建立桥墩" class="headerlink" title="建立桥墩"></a>建立桥墩</h2><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/hecras05_12.png" alt="image-20201014203220230"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> HEC-RAS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HEC-RAS </tag>
+            
+            <tag> 一维水动力学 </tag>
+            
+            <tag> 计算水力学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【2020】09 研究生</title>
       <link href="/2020/10/08/2020-9/"/>
       <url>/2020/10/08/2020-9/</url>
@@ -35,7 +64,7 @@
       <link href="/2020/09/27/CryinRains/"/>
       <url>/2020/09/27/CryinRains/</url>
       
-        <content type="html"><![CDATA[<p>余华的语言实在生动，就是那孙有元临死时说的话“儿子，我要死啦，不死不行啊，我死了你就能活啦”就是经典。有人说“死亡是爱情的高潮”，我看死亡也能体现出人性来。</p><p><img src= "/img/loading.gif" data-lazy-src="C:\Users\LJB\Desktop\CryinRain_5.jpg" alt="img"></p><p>孙广才是普通农民的典范，市侩、现实、斤斤计较。在生活的逼迫下，他向现实妥协，他卖掉自己的孩子，对父亲恶语相向，失掉了人性，只有一副人的皮囊和一颗安逸享乐的兽心。余华把人性写得相当露骨，直接抛出来让人们直面它、围观它、评论它，最后深入思考它。</p><p>性是表现人性的一个极好的角度，中年男人、青年、儿童、妇女对性的认识和做法可以折射出社会对性行为的态度。十五六岁的青少年身体逐渐发育，对性产生了极大的兴趣和困惑，在羞耻心的蒙蔽下，孙光林不敢向家人、朋友倾诉，对性的认识容易产生歪曲，甚至谈性色变。要解决问题，首先得认识它。中国传统文化里的性教育极度匮乏，这种文化传统至今影响着当今社会的性教育问题。中国的父母脑子里的封建残余没有彻底清除，学校的性教育也严重缺失，孩子也就很难形成客观全面的性观念。社会上的邪恶分子可不会给孩子了解的时间，他们的魔爪早已伸向了一个个天真烂漫的孩童。对儿童的性侵案件层出不穷，甚至已经形成了性侵犯罪网络，在巨大的人性欲望面前，道德的约束显得苍白无力，而法律对性侵犯的惩罚力度又过低，导致不断有儿童受到侵害，许多罪犯逍遥法外。</p><p>人性是脆弱的，经不起欲望的考验。苏光平从一个拿着菜刀追王悦进的十四岁少年到拿着斧头砍父亲时，他已向人性妥协了，砍掉的左耳只是他不甘的抗争罢了。荒诞不经的情节正好用来描写人性，父亲对儿媳的猥亵、丈夫对家庭的背叛、少年对手淫的恐惧，将这些夸大后，表现得淋漓尽致。</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/CryinRain_2.jpg" alt="img"></p><p>​                                                                                                        <em>《肖申克的救赎》重获自由的安迪</em></p><p>爱上一个人之后，渴望对方的肉体，是这个世界上最美好最原始的冲动。这没有任何值得谴责的地方，也绝对不会和灵魂里的爱情相排斥或者矛盾，恰恰相反，灵与肉的结合才是爱情的最高境界。纯柏拉图之恋实在少得虚无缥缈。</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/CryinRain_3.jpg" alt="img"></p><p>​                                                                                                  <em>《童梦失魂夜》阿一与美蒂炸毁怪博士实验室后</em></p><p>王小波在《黄金时代》中讲到：“每个人的本性都是好吃懒做，好色贪淫，假如你克勤克俭，守身如玉，这就犯了矫饰之罪，比好吃懒做、好色贪淫更可恶。”自人类文明出现，人的本性就存在于人的思想里，任何试图掩盖人性、压抑人性的做法都是不合适的，随着文明的进步，道德、法律被人类创造出来约束自己的本性，这有益于社会的进步。在社会的最终阶段，托马斯·莫尔在《乌托邦》描述的婚姻不存在、政府抚养孩子、性完全自由的想象是可能实现的。</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/CryinRain_4.gif" alt="img"></p><p>​                                                                                     <em>《西西里的美丽传说》玛莲娜丈夫前线战死后，沉沦为妓女</em></p>]]></content>
+        <content type="html"><![CDATA[<p>余华的语言实在生动，就是那孙有元临死时说的话“儿子，我要死啦，不死不行啊，我死了你就能活啦”就是经典。有人说“死亡是爱情的高潮”，我看死亡也能体现出人性来。</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/CryinRain_1.jpg" alt="img"></p><p>孙广才是普通农民的典范，市侩、现实、斤斤计较。在生活的逼迫下，他向现实妥协，他卖掉自己的孩子，对父亲恶语相向，失掉了人性，只有一副人的皮囊和一颗安逸享乐的兽心。余华把人性写得相当露骨，直接抛出来让人们直面它、围观它、评论它，最后深入思考它。</p><p>性是表现人性的一个极好的角度，中年男人、青年、儿童、妇女对性的认识和做法可以折射出社会对性行为的态度。十五六岁的青少年身体逐渐发育，对性产生了极大的兴趣和困惑，在羞耻心的蒙蔽下，孙光林不敢向家人、朋友倾诉，对性的认识容易产生歪曲，甚至谈性色变。要解决问题，首先得认识它。中国传统文化里的性教育极度匮乏，这种文化传统至今影响着当今社会的性教育问题。中国的父母脑子里的封建残余没有彻底清除，学校的性教育也严重缺失，孩子也就很难形成客观全面的性观念。社会上的邪恶分子可不会给孩子了解的时间，他们的魔爪早已伸向了一个个天真烂漫的孩童。对儿童的性侵案件层出不穷，甚至已经形成了性侵犯罪网络，在巨大的人性欲望面前，道德的约束显得苍白无力，而法律对性侵犯的惩罚力度又过低，导致不断有儿童受到侵害，许多罪犯逍遥法外。</p><p>人性是脆弱的，经不起欲望的考验。苏光平从一个拿着菜刀追王悦进的十四岁少年到拿着斧头砍父亲时，他已向人性妥协了，砍掉的左耳只是他不甘的抗争罢了。荒诞不经的情节正好用来描写人性，父亲对儿媳的猥亵、丈夫对家庭的背叛、少年对手淫的恐惧，将这些夸大后，表现得淋漓尽致。</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/CryinRain_2.jpg" alt="img"></p><p>​                                                                                                        <em>《肖申克的救赎》重获自由的安迪</em></p><p>爱上一个人之后，渴望对方的肉体，是这个世界上最美好最原始的冲动。这没有任何值得谴责的地方，也绝对不会和灵魂里的爱情相排斥或者矛盾，恰恰相反，灵与肉的结合才是爱情的最高境界。纯柏拉图之恋实在少得虚无缥缈。</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/CryinRain_3.jpg" alt="img"></p><p>​                                                                                                  <em>《童梦失魂夜》阿一与美蒂炸毁怪博士实验室后</em></p><p>王小波在《黄金时代》中讲到：“每个人的本性都是好吃懒做，好色贪淫，假如你克勤克俭，守身如玉，这就犯了矫饰之罪，比好吃懒做、好色贪淫更可恶。”自人类文明出现，人的本性就存在于人的思想里，任何试图掩盖人性、压抑人性的做法都是不合适的，随着文明的进步，道德、法律被人类创造出来约束自己的本性，这有益于社会的进步。在社会的最终阶段，托马斯·莫尔在《乌托邦》描述的婚姻不存在、政府抚养孩子、性完全自由的想象是可能实现的。</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting@master/img/CryinRain_4.gif" alt="img"></p><p>​                                                                                     <em>《西西里的美丽传说》玛莲娜丈夫前线战死后，沉沦为妓女</em></p>]]></content>
       
       
       <categories>
@@ -58,7 +87,7 @@
     
     
     <entry>
-      <title>研究生入学讲座</title>
+      <title>【讲座】01 研究生入学讲座</title>
       <link href="/2020/09/24/PhDSpeech/"/>
       <url>/2020/09/24/PhDSpeech/</url>
       
