@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lujiabo98.github.io/"/>
-  <updated>2020-10-20T12:51:15.602Z</updated>
+  <updated>2020-10-27T05:55:08.834Z</updated>
   <id>http://lujiabo98.github.io/</id>
   
   <author>
@@ -15,6 +15,67 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【讲座】04 学院开学典礼</title>
+    <link href="http://lujiabo98.github.io/2020/10/27/speech04/"/>
+    <id>http://lujiabo98.github.io/2020/10/27/speech04/</id>
+    <published>2020-10-27T05:24:52.000Z</published>
+    <updated>2020-10-27T05:55:08.834Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020/9/22 学院<a href="https://shxy.hhu.edu.cn/2020/0929/c3462a213280/page.htm">开学典礼</a></p><p>王卫光副院长介绍奖助政策。</p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-1.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-2.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-3.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-4.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-5.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-6.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-7.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-8.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-9.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting1@main/speech04-10.jpg"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2020/9/22 学院&lt;a href=&quot;https://shxy.hhu.edu.cn/2020/0929/c3462a213280/page.htm&quot;&gt;开学典礼&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;王卫光副院长介绍奖助政策。&lt;/p&gt;
+&lt;p&gt;&lt;img src= &quot;/img/loadin
+      
+    
+    </summary>
+    
+    
+      <category term="讲座" scheme="http://lujiabo98.github.io/categories/%E8%AE%B2%E5%BA%A7/"/>
+    
+    
+      <category term="讲座" scheme="http://lujiabo98.github.io/tags/%E8%AE%B2%E5%BA%A7/"/>
+    
+      <category term="开学" scheme="http://lujiabo98.github.io/tags/%E5%BC%80%E5%AD%A6/"/>
+    
+      <category term="奖助学金" scheme="http://lujiabo98.github.io/tags/%E5%A5%96%E5%8A%A9%E5%AD%A6%E9%87%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【讲座】03 高性能计算技术培训</title>
+    <link href="http://lujiabo98.github.io/2020/10/27/speech03/"/>
+    <id>http://lujiabo98.github.io/2020/10/27/speech03/</id>
+    <published>2020-10-27T04:24:44.000Z</published>
+    <updated>2020-10-27T05:19:01.382Z</updated>
+    
+    <content type="html"><![CDATA[<p>上午去听了讲座，计算中心的负责人简单介绍了中心的计算能力和使用方法。<br>这个主要是用来做大量消耗CPU的计算任务，软件可以用商用的，也可以是自己编译的。</p><p>支持并行计算；只能跑Linux上能运行的程序，不支持Windows，自己编译的程序调用的库需要在Linux中也有对应的库。</p><p>老师点评：这个玩意暂时玩不了，除非我们在windows下建好模型，然后把模型单独的代码在linux上编译一下，再读取windows上建好的模型文档才可以。</p><p>官网：<a href="http://hpc.hhu.edu.cn/">http://hpc.hhu.edu.cn/</a></p><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-1.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-2.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-3.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-4.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-5.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-6.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-7.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-8.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-9.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-10.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-11.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-12.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-13.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-14.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-15.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-16.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-17.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-18.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-19.jpg"><br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/lujiabo98/ImageHosting/img1/speech03-20.jpg"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;上午去听了讲座，计算中心的负责人简单介绍了中心的计算能力和使用方法。&lt;br&gt;这个主要是用来做大量消耗CPU的计算任务，软件可以用商用的，也可以是自己编译的。&lt;/p&gt;
+&lt;p&gt;支持并行计算；只能跑Linux上能运行的程序，不支持Windows，自己编译的程序调用的库需要在Lin
+      
+    
+    </summary>
+    
+    
+      <category term="讲座" scheme="http://lujiabo98.github.io/categories/%E8%AE%B2%E5%BA%A7/"/>
+    
+    
+      <category term="讲座" scheme="http://lujiabo98.github.io/tags/%E8%AE%B2%E5%BA%A7/"/>
+    
+      <category term="高性能计算" scheme="http://lujiabo98.github.io/tags/%E9%AB%98%E6%80%A7%E8%83%BD%E8%AE%A1%E7%AE%97/"/>
+    
+  </entry>
   
   <entry>
     <title>【讲座】02 写作英文学术论文</title>
@@ -82,9 +143,9 @@
     <link href="http://lujiabo98.github.io/2020/10/08/2020-9/"/>
     <id>http://lujiabo98.github.io/2020/10/08/2020-9/</id>
     <published>2020-10-08T12:58:58.000Z</published>
-    <updated>2020-10-08T13:42:27.026Z</updated>
+    <updated>2020-10-27T05:54:33.501Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="系列文章"><a href="#系列文章" class="headerlink" title="系列文章"></a>系列文章</h1><p><a href="https://lujiabo98.github.io/2020/08/04/2020-2/">【2020】02 记录生活</a><br><a href="https://lujiabo98.github.io/2020/08/05/2020-3/">【2020】03 从中二走向理性</a><br><a href="https://lujiabo98.github.io/2020/08/06/2020-4/">【2020】04 期盼开学</a><br><a href="https://lujiabo98.github.io/2020/08/10/2020-5/">【2020】05 毕业论文</a><br><a href="https://lujiabo98.github.io/2020/08/10/2020-6/">【2020】06 毕业</a><br><a href="https://lujiabo98.github.io/2020/08/10/2020-7/">【2020】07 留校</a><br><a href="https://lujiabo98.github.io/2020/09/19/2020-8/">【2020】08 回家</a></p><h1 id="6"><a href="#6" class="headerlink" title="6"></a>6</h1><p>【学习】开始写学报论文。</p><h1 id="7"><a href="#7" class="headerlink" title="7"></a>7</h1><p>【工作】处理<a href="https://blog.csdn.net/weixin_43012724/article/details/108429034">桐庐河道断面资料</a>，计算平均比降。</p><h1 id="15"><a href="#15" class="headerlink" title="15"></a>15</h1><p>【学习】学报论文剩余案例和结论部分未完成。</p><h1 id="17"><a href="#17" class="headerlink" title="17"></a>17</h1><p>【生活】开学报到。<br>【新闻】<br><a href="https://mp.weixin.qq.com/s?__biz=MzA4MTY3MzgwMw==&mid=2653854009&idx=1&sn=1aa90c9607035a18096f7838dda0e08b&chksm=844b521db33cdb0bb2c0cfe1c582f59fc017029c587cb2323773c79229ac89125a52ff858e4b&scene=126&sessionid=1600433390&key=d9259f2335ef3c3ceee8e3b1bda8bbecc0b98d1eb0b7bd7a3680714b518b7ddb3a44cfaf7430a489001fd6fde7c77f4184e13bd0b0d9c2b1f70972e52b52e32d999ce995ac1be0c36d9bf7ee2b46cb592861a53b4ed0c30fc916b452ccd36ac54ceef9672296ef16e16b917b714aab339e3c95473f58c8d76bb0174f4dbbe1cf&ascene=1&uin=MjE4MjQ3MTU3OQ==&devicetype=Windows%2010%20x64&version=62090529&lang=zh_CN&exportkey=ATNVOqCD6ODw/rkr5oH9xis=&pass_ticket=iH1rWcw2BcQMyut7J3l6R7inBDq7KY44CCdhzSjHcJsSGx0JNgmWbGnnyDmo9dPX&wx_header=0">欢迎新同学！河海2020级研究生萌新们来啦！</a></p><p><a href="https://mp.weixin.qq.com/s/PJpxQ1I07O6DSnWy1rocrg">河你相遇 | 多图预警！直击2020级研究生开学现场！</a></p><h1 id="18"><a href="#18" class="headerlink" title="18"></a>18</h1><p>【生活】<br>校开学典礼。<br>晚上师门聚餐。<br>【新闻】<br><a href="http://www.hhu.edu.cn/2020/0918/c166a212444/page.htm">我校隆重举行2020级研究生开学典礼</a><br><a href="http://www.hhu.edu.cn/2020/0918/c166a212441/page.htm">校党委书记唐洪武为2020级研究生新生讲授开学第一课</a></p><p><a href="https://mp.weixin.qq.com/s/TEFyiGOh8S-Nz9vgIqtuEA">【溯洄从之 在水一方】典礼嘉宾邓铭江院士在河海大学2020级研究生开学典礼上的致辞</a></p><h1 id="19"><a href="#19" class="headerlink" title="19"></a>19</h1><p>【工作】<br>上午拍摄南盘江流域水文年鉴资料。<br>摘自《1967珠江流域水文年鉴》<br>我觉得这句话好就好在“搞”字，把“革命理想高于天”的宏大叙事解构为像吃饭、睡觉这样每个人都会干的平凡事。<br><img src= "/img/loading.gif" data-lazy-src="https://img-blog.csdnimg.cn/20200920075300141.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAxMjcyNA==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述"></p><p>【生活】<br>晚上更新博客。<br>【新闻】<a href="https://mp.weixin.qq.com/s/zMbZ2b8DV4P5Rp6BT-yDug">河海大学2021年硕士研究生招生简章</a><br>亮点：水利工程专硕名字改成土木水利，学制由2年改为3年。<br>我觉得学校这么做一是为了扩大毕业生就业范围，二是延缓研究生毕业时间。这几年都在说土木水利行业的就业环境不好，这两点改动可以作为一个证据。</p><h1 id="20"><a href="#20" class="headerlink" title="20"></a>20</h1><p>【生活】<br>上午购买二手电动车。<br>【学习】<br>下午及晚上修改学报征稿。</p><h1 id="21"><a href="#21" class="headerlink" title="21"></a>21</h1><p>【学习】<br>学报论文完成投稿。<br>【工作】<br>上午与班级同学参观校史馆。</p><h1 id="22"><a href="#22" class="headerlink" title="22"></a>22</h1><p>【工作】<br>上午，院开学典礼。<br>下午，银行卡校园卡绑定。<br>【学习】<br>下午，计算机二级Python模拟考试。<br>晚上，复习Python试题。</p><h1 id="23"><a href="#23" class="headerlink" title="23"></a>23</h1><p>【学习】<br>晚上观看B站计算机考试<a href="https://www.bilibili.com/video/BV11D4y1m7CS/?p=28">公共基础视频</a>。<br>【工作】<br>下午体检。</p><h1 id="24"><a href="#24" class="headerlink" title="24"></a>24</h1><p>校园里的桂花开了，香气扑鼻，舒服。<br>【学习】<br>上午，复习Python试题。<br>下午，听优秀博士分享会。</p><h1 id="25"><a href="#25" class="headerlink" title="25"></a>25</h1><p>【工作】<br>上午，去中国银行注销新银行卡。<br>【学习】<br>晚上，继续复习Python。<br>学报论文被退稿。<br>【意外】<br>电瓶车失窃。<br>中午11:56分，停在家乐福超市门口的电瓶车被小偷骑走，12:17我从超市吃完饭出来，发现车子不见了，这是才意识到自己钥匙未拔。先去江门派出所报案，警察告知不属于其辖区，遂至阅江楼派出所报案。警察小哥带我至家乐福超市调看监控录像，发现电瓶车于11:56分被一着白色T恤男子骑走。拷贝录像至U盘后，返回阅江楼派出所，调取沿途监控画面，绘制出盗贼完整轨迹，最终小偷行踪在12:02分消失在静海寺。警察小哥告知我回去等电话通知，并表示找回概率较大。<br>行车轨迹如下图所示：<br><img src= "/img/loading.gif" data-lazy-src="https://img-blog.csdnimg.cn/20200925195812988.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAxMjcyNA==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述"><br>【生活】<br>这次电动车失窃意外以及报案过程让我对社会有了进一步的认识，是一次很好的实践。如果电动车能顺利找回，我就写一篇博客，题目就叫《从电瓶车失窃理解《家私国》和《国家与革命》——750块买来的教训》。</p><h1 id="26"><a href="#26" class="headerlink" title="26"></a>26</h1><p>【学习】<br>刷完Python400道选择题。</p><h1 id="27"><a href="#27" class="headerlink" title="27"></a>27</h1><p>【学习】<br>中午参加Python全国计算机二级考试。预计优秀。</p><h1 id="29"><a href="#29" class="headerlink" title="29"></a>29</h1><p>【生活】<br>订票回家。<br>【工作】<br>下午，扫描水文年鉴。<br>【学习】<br>上午及晚上，撰写水文水动力系统说明书。</p><h1 id="30"><a href="#30" class="headerlink" title="30"></a>30</h1><p>【工作】<br>上午，完成说明书。<br>下午，录入水文年鉴数据。<br>【生活】<br>和老哥吃龙虾。<br>校园里的桂花谢了。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="系列文章"><a href="#系列文章" class="headerlink" title="系列文章"></a>系列文章</h1><p><a href="https://lujiabo98.github.io/2020/08/04/2020-2/">【2020】02 记录生活</a><br><a href="https://lujiabo98.github.io/2020/08/05/2020-3/">【2020】03 从中二走向理性</a><br><a href="https://lujiabo98.github.io/2020/08/06/2020-4/">【2020】04 期盼开学</a><br><a href="https://lujiabo98.github.io/2020/08/10/2020-5/">【2020】05 毕业论文</a><br><a href="https://lujiabo98.github.io/2020/08/10/2020-6/">【2020】06 毕业</a><br><a href="https://lujiabo98.github.io/2020/08/10/2020-7/">【2020】07 留校</a><br><a href="https://lujiabo98.github.io/2020/09/19/2020-8/">【2020】08 回家</a></p><h1 id="6"><a href="#6" class="headerlink" title="6"></a>6</h1><p>【学习】开始写学报论文。</p><h1 id="7"><a href="#7" class="headerlink" title="7"></a>7</h1><p>【工作】处理<a href="https://blog.csdn.net/weixin_43012724/article/details/108429034">桐庐河道断面资料</a>，计算平均比降。</p><h1 id="15"><a href="#15" class="headerlink" title="15"></a>15</h1><p>【学习】学报论文剩余案例和结论部分未完成。</p><h1 id="17"><a href="#17" class="headerlink" title="17"></a>17</h1><p>【生活】开学报到。<br>【新闻】<br><a href="https://mp.weixin.qq.com/s?__biz=MzA4MTY3MzgwMw==&mid=2653854009&idx=1&sn=1aa90c9607035a18096f7838dda0e08b&chksm=844b521db33cdb0bb2c0cfe1c582f59fc017029c587cb2323773c79229ac89125a52ff858e4b&scene=126&sessionid=1600433390&key=d9259f2335ef3c3ceee8e3b1bda8bbecc0b98d1eb0b7bd7a3680714b518b7ddb3a44cfaf7430a489001fd6fde7c77f4184e13bd0b0d9c2b1f70972e52b52e32d999ce995ac1be0c36d9bf7ee2b46cb592861a53b4ed0c30fc916b452ccd36ac54ceef9672296ef16e16b917b714aab339e3c95473f58c8d76bb0174f4dbbe1cf&ascene=1&uin=MjE4MjQ3MTU3OQ==&devicetype=Windows%2010%20x64&version=62090529&lang=zh_CN&exportkey=ATNVOqCD6ODw/rkr5oH9xis=&pass_ticket=iH1rWcw2BcQMyut7J3l6R7inBDq7KY44CCdhzSjHcJsSGx0JNgmWbGnnyDmo9dPX&wx_header=0">欢迎新同学！河海2020级研究生萌新们来啦！</a></p><p><a href="https://mp.weixin.qq.com/s/PJpxQ1I07O6DSnWy1rocrg">河你相遇 | 多图预警！直击2020级研究生开学现场！</a></p><h1 id="18"><a href="#18" class="headerlink" title="18"></a>18</h1><p>【生活】<br>校开学典礼。<br>晚上师门聚餐。<br>【新闻】<br><a href="http://www.hhu.edu.cn/2020/0918/c166a212444/page.htm">我校隆重举行2020级研究生开学典礼</a><br><a href="http://www.hhu.edu.cn/2020/0918/c166a212441/page.htm">校党委书记唐洪武为2020级研究生新生讲授开学第一课</a></p><p><a href="https://mp.weixin.qq.com/s/TEFyiGOh8S-Nz9vgIqtuEA">【溯洄从之 在水一方】典礼嘉宾邓铭江院士在河海大学2020级研究生开学典礼上的致辞</a></p><h1 id="19"><a href="#19" class="headerlink" title="19"></a>19</h1><p>【工作】<br>上午拍摄南盘江流域水文年鉴资料。<br>摘自《1967珠江流域水文年鉴》<br>我觉得这句话好就好在“搞”字，把“革命理想高于天”的宏大叙事解构为像吃饭、睡觉这样每个人都会干的平凡事。<br><img src= "/img/loading.gif" data-lazy-src="https://img-blog.csdnimg.cn/20200920075300141.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAxMjcyNA==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述"></p><p>【生活】<br>晚上更新博客。<br>【新闻】<a href="https://mp.weixin.qq.com/s/zMbZ2b8DV4P5Rp6BT-yDug">河海大学2021年硕士研究生招生简章</a><br>亮点：水利工程专硕名字改成土木水利，学制由2年改为3年。<br>我觉得学校这么做一是为了扩大毕业生就业范围，二是延缓研究生毕业时间。这几年都在说土木水利行业的就业环境不好，这两点改动可以作为一个证据。</p><h1 id="20"><a href="#20" class="headerlink" title="20"></a>20</h1><p>【生活】<br>上午购买二手电动车。<br>【学习】<br>下午及晚上修改学报征稿。</p><h1 id="21"><a href="#21" class="headerlink" title="21"></a>21</h1><p>【学习】<br>学报论文完成投稿。<br>【工作】<br>上午与班级同学参观校史馆。</p><h1 id="22"><a href="#22" class="headerlink" title="22"></a>22</h1><p>【工作】<br>上午，院<a href="https://shxy.hhu.edu.cn/2020/0929/c3462a213280/page.htm">开学典礼</a>。<br>下午，银行卡校园卡绑定。<br>【学习】<br>下午，计算机二级Python模拟考试。<br>晚上，复习Python试题。</p><h1 id="23"><a href="#23" class="headerlink" title="23"></a>23</h1><p>【学习】<br>晚上观看B站计算机考试<a href="https://www.bilibili.com/video/BV11D4y1m7CS/?p=28">公共基础视频</a>。<br>【工作】<br>下午体检。</p><h1 id="24"><a href="#24" class="headerlink" title="24"></a>24</h1><p>校园里的桂花开了，香气扑鼻，舒服。<br>【学习】<br>上午，复习Python试题。<br>下午，听优秀博士分享会。</p><h1 id="25"><a href="#25" class="headerlink" title="25"></a>25</h1><p>【工作】<br>上午，去中国银行注销新银行卡。<br>【学习】<br>晚上，继续复习Python。<br>学报论文被退稿。<br>【意外】<br>电瓶车失窃。<br>中午11:56分，停在家乐福超市门口的电瓶车被小偷骑走，12:17我从超市吃完饭出来，发现车子不见了，这是才意识到自己钥匙未拔。先去江门派出所报案，警察告知不属于其辖区，遂至阅江楼派出所报案。警察小哥带我至家乐福超市调看监控录像，发现电瓶车于11:56分被一着白色T恤男子骑走。拷贝录像至U盘后，返回阅江楼派出所，调取沿途监控画面，绘制出盗贼完整轨迹，最终小偷行踪在12:02分消失在静海寺。警察小哥告知我回去等电话通知，并表示找回概率较大。<br>行车轨迹如下图所示：<br><img src= "/img/loading.gif" data-lazy-src="https://img-blog.csdnimg.cn/20200925195812988.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAxMjcyNA==,size_16,color_FFFFFF,t_70#pic_center" alt="在这里插入图片描述"><br>【生活】<br>这次电动车失窃意外以及报案过程让我对社会有了进一步的认识，是一次很好的实践。如果电动车能顺利找回，我就写一篇博客，题目就叫《从电瓶车失窃理解《家私国》和《国家与革命》——750块买来的教训》。</p><h1 id="26"><a href="#26" class="headerlink" title="26"></a>26</h1><p>【学习】<br>刷完Python400道选择题。</p><h1 id="27"><a href="#27" class="headerlink" title="27"></a>27</h1><p>【学习】<br>中午参加Python全国计算机二级考试。预计优秀。</p><h1 id="29"><a href="#29" class="headerlink" title="29"></a>29</h1><p>【生活】<br>订票回家。<br>【工作】<br>下午，扫描水文年鉴。<br>【学习】<br>上午及晚上，撰写水文水动力系统说明书。</p><h1 id="30"><a href="#30" class="headerlink" title="30"></a>30</h1><p>【工作】<br>上午，完成说明书。<br>下午，录入水文年鉴数据。<br>【生活】<br>和老哥吃龙虾。<br>校园里的桂花谢了。</p>]]></content>
     
     <summary type="html">
     
