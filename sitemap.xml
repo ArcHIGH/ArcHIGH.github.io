@@ -312,7 +312,7 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/tags/%E7%A7%91%E7%A0%94/</loc>
+    <loc>http://lujiabo98.github.io/tags/%E6%AF%95%E4%B8%9A/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/tags/%E6%AF%95%E4%B8%9A/</loc>
+    <loc>http://lujiabo98.github.io/tags/%E7%A7%91%E7%A0%94/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -389,20 +389,6 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/tags/%E5%9B%BE%E8%AE%BA/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lujiabo98.github.io/tags/Boost/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://lujiabo98.github.io/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
@@ -411,6 +397,20 @@
   
   <url>
     <loc>http://lujiabo98.github.io/tags/%E5%94%AF%E4%B8%80%E6%80%A7/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/%E5%9B%BE%E8%AE%BA/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/Boost/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -452,27 +452,6 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/tags/python/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lujiabo98.github.io/tags/NCRE/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lujiabo98.github.io/tags/%E5%85%AC%E5%85%B1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://lujiabo98.github.io/tags/%E8%AE%B2%E5%BA%A7/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
@@ -488,6 +467,27 @@
   
   <url>
     <loc>http://lujiabo98.github.io/tags/%E5%B8%88%E5%85%84%E5%B8%88%E5%A7%90/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/python/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/NCRE/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/%E5%85%AC%E5%85%B1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -608,14 +608,14 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/categories/Python/</loc>
+    <loc>http://lujiabo98.github.io/categories/%E8%AE%B2%E5%BA%A7/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/categories/%E8%AE%B2%E5%BA%A7/</loc>
+    <loc>http://lujiabo98.github.io/categories/Python/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
