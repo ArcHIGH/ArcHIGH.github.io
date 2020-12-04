@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lujiabo98.github.io/2020/12/04/speech08/</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/2020/12/03/Graph03/</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lujiabo98.github.io/2020/10/28/Graph01/</loc>
     
     <lastmod>2020-12-03</lastmod>
@@ -298,13 +312,6 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/tags/%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://lujiabo98.github.io/tags/%E6%AF%95%E4%B8%9A/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
@@ -312,7 +319,28 @@
   </url>
   
   <url>
+    <loc>http://lujiabo98.github.io/tags/%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lujiabo98.github.io/tags/%E7%A7%91%E7%A0%94/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/%E4%B9%A6%E8%AF%84/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/%E4%BD%99%E5%8D%8E/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -375,14 +403,14 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/tags/%E4%B9%A6%E8%AF%84/</loc>
+    <loc>http://lujiabo98.github.io/tags/%E6%9C%80%E5%A4%A7%E6%B5%81/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/tags/%E4%BD%99%E5%8D%8E/</loc>
+    <loc>http://lujiabo98.github.io/tags/%E5%94%AF%E4%B8%80%E6%80%A7/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -424,27 +452,6 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/tags/%E8%AE%B2%E5%BA%A7/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lujiabo98.github.io/tags/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E6%95%99%E8%82%B2/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lujiabo98.github.io/tags/%E5%B8%88%E5%85%84%E5%B8%88%E5%A7%90/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://lujiabo98.github.io/tags/python/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
@@ -466,6 +473,34 @@
   </url>
   
   <url>
+    <loc>http://lujiabo98.github.io/tags/%E8%AE%B2%E5%BA%A7/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E6%95%99%E8%82%B2/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/%E5%B8%88%E5%85%84%E5%B8%88%E5%A7%90/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/%E9%AB%98%E6%80%A7%E8%83%BD%E8%AE%A1%E7%AE%97/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lujiabo98.github.io/tags/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
@@ -474,13 +509,6 @@
   
   <url>
     <loc>http://lujiabo98.github.io/tags/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2020-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lujiabo98.github.io/tags/%E9%AB%98%E6%80%A7%E8%83%BD%E8%AE%A1%E7%AE%97/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -528,6 +556,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://lujiabo98.github.io/tags/%E8%AE%B2%E4%B9%89/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lujiabo98.github.io/tags/%E4%B8%AD%E7%89%B9/</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -538,14 +580,14 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/categories/%E5%9B%BE%E8%AE%BA/</loc>
+    <loc>http://lujiabo98.github.io/categories/%E8%AF%84%E8%AE%BA/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/categories/%E8%AF%84%E8%AE%BA/</loc>
+    <loc>http://lujiabo98.github.io/categories/%E5%9B%BE%E8%AE%BA/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -566,14 +608,14 @@
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/categories/%E8%AE%B2%E5%BA%A7/</loc>
+    <loc>http://lujiabo98.github.io/categories/Python/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://lujiabo98.github.io/categories/Python/</loc>
+    <loc>http://lujiabo98.github.io/categories/%E8%AE%B2%E5%BA%A7/</loc>
     <lastmod>2020-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
