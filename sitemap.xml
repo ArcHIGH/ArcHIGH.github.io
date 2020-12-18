@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>http://archigh.github.io/2020/12/04/Speech08/</loc>
-    
-    <lastmod>2020-12-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://archigh.github.io/music/index.html</loc>
     
     <lastmod>2020-08-07</lastmod>
@@ -74,21 +67,7 @@
   </url>
   
   <url>
-    <loc>http://archigh.github.io/tags/%E8%AE%B2%E5%BA%A7/</loc>
-    <lastmod>2020-12-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://archigh.github.io/tags/%E8%AE%B2%E4%B9%89/</loc>
-    <lastmod>2020-12-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://archigh.github.io/tags/%E4%B8%AD%E7%89%B9/</loc>
+    <loc>http://archigh.github.io/tags/GIS/</loc>
     <lastmod>2020-12-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -98,13 +77,6 @@
   
   <url>
     <loc>http://archigh.github.io/categories/%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2020-12-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://archigh.github.io/categories/%E8%AE%B2%E5%BA%A7/</loc>
     <lastmod>2020-12-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
